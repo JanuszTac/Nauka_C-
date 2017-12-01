@@ -10,6 +10,7 @@ namespace TEST___1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub !!!");
         }
     }
 }
